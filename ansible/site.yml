@@ -1,5 +1,5 @@
 ---
-- name: Install Git, MySQL, Nginx, and projects
+- name: Install Git, MySQL, Nginx, and project
   hosts: all
   become: yes
 
